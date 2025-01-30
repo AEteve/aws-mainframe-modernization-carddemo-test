@@ -1,4 +1,4 @@
-## CardDemo -- Mainframe CardDemo Application
+## CardDemo -- Mainframe CardDemo Application for tests
 
 - [CardDemo -- Mainframe CardDemo Application](#carddemo----mainframe-card-demo-application)
 - [Description](#description)
